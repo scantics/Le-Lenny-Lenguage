@@ -16,7 +16,7 @@ termination	       . [1]
 alternation	       |
 option	              [ ... ]
 repetition	       (╯ಠ‿ಠ)╯︵┻━┻ ... ┬━┬ ﻿ ノ( ゜-゜ノ)
-grouping	       ( ... )
+grouping	       ┴┬┴┤͜ʖ ͡°) ... (͡° ͜ʖ├┬┴┬
 terminal string	   シ ... シ
 terminal string	   ツ ... ツ
 comment	       
