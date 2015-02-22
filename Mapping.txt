@@ -20,7 +20,7 @@
 Ⅶ as 7
 Ⅷ as 8
 Ⅸ as 9
-+⪌ as >=< (Greater Than or Equal To or Less Than)
+⪌ as >=< (Greater Than or Equal To or Less Than)
 👽 as :
 ™  as ;
 ☎ as char
