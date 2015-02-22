@@ -51,6 +51,6 @@ lhs = identifier
      | lhs , "|" , lhs
      | lhs , "✯" , lhs ;
  
-rule = lhs , "▄︻̷̿┻̿═━一" , rhs , ";" ;
+rule = lhs , "▄︻̷̿┻̿═━一" , rhs , "™" ;
 grammar = { rule } ;
 ```
