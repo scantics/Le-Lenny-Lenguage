@@ -39,8 +39,8 @@ symbol = "[" | "]"
 character = letter | digit | symbol | "_" ;
  
 identifier = letter , { letter | digit | "_" } ;
-terminal = "'" , character , { character } , "'" 
-         | '"' , character , { character } , '"' ;
+terminal = "ツ" , character , { character } , "ツ" 
+         | 'シ' , character , { character } , 'シ' ;
  
 rhs = identifier ;
 lhs = identifier
