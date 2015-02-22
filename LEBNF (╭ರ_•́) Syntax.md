@@ -2,7 +2,7 @@ LEBNF stands for Le EBNF, and we shall define it using EBNF, and it behaves basi
 
 ¯\_(ツ)_/¯ What's EBNF?
 
-Extended Backus-Naur Form you pleb read a book I oughta go over there and install GNU plus Linux on your computer right now.
+Extended Backus-Naur Form you pleb read a book I oughta go over there and install GNU plus Linux on your computer right now free as in freedom.
 ツ๖ۣۜMelodic_™☯††☭ ✠
 ✈♜♜
 ---ι═══════ﺤ
@@ -10,9 +10,9 @@ Extended Backus-Naur Form you pleb read a book I oughta go over there and instal
 ```
 Usage	Notation
 definition	       ▄︻̷̿┻̿═━━
-concatenation	       ,
-termination	       ;
-termination	       . [1]
+concatenation	       ✯
+termination	       ™
+termination	       
 alternation	       |
 option	              [ ... ]
 repetition	       (╯ಠ‿ಠ)╯︵┻━┻ ... ┬━┬ ﻿ ノ( ゜-゜ノ)
@@ -35,7 +35,7 @@ symbol = "[" | "]"
        | "(╯ಠ‿ಠ)╯︵┻━┻" | "┬━┬ ﻿ ノ( ゜-゜ノ)"
        | "┴┬┴┤͜ʖ ͡°)" | "(͡° ͜ʖ├┬┴┬"
        | "<" | ">"
-       | "シ" | "ツ" | "▄︻̷̿┻̿═━一" | "|" | "." | "," | ";" ;
+       | "シ" | "ツ" | "▄︻̷̿┻̿═━一" | "|" | "." | "✯" | "™" ;
 character = letter | digit | symbol | "_" ;
  
 identifier = letter , { letter | digit | "_" } ;
@@ -49,7 +49,7 @@ lhs = identifier
      | "{" , lhs , "}"
      | "(" , lhs , ")"
      | lhs , "|" , lhs
-     | lhs , "," , lhs ;
+     | lhs , "✯" , lhs ;
  
 rule = lhs , "▄︻̷̿┻̿═━一" , rhs , ";" ;
 grammar = { rule } ;
