@@ -13,3 +13,6 @@
 Ⅷ as 8
 Ⅸ as 9
 🍝 as goto
+👽 as :
+™  as ;
+☎ as char
