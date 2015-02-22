@@ -3,6 +3,26 @@ LEBNF stands for Le EBNF, and we shall define it using EBNF, and it behaves basi
 ¯\_(ツ)_/¯ What's EBNF?
 
 Extended Backus-Naur Form you pleb read a book I oughta go over there and install GNU plus Linux on your computer right now.
+ツ๖ۣۜMelodic_™☯††☭ ✠
+✈♜♜
+---ι═══════ﺤ
+
+```
+Usage	Notation
+definition	       ▄︻̷̿┻̿═━━
+concatenation	       ,
+termination	       ;
+termination	       . [1]
+alternation	       |
+option	              [ ... ]
+repetition	       (╯ಠ‿ಠ)╯︵┻━┻ ... ┬━┬ ﻿ ノ( ゜-゜ノ)
+grouping	       ( ... )
+terminal string	   シ ... シ
+terminal string	   ツ ... ツ
+comment	       
+special sequence	? ... ?
+exception	       ☠
+```
 
 
 ```
@@ -15,7 +35,7 @@ symbol = "[" | "]"
        | "(╯ಠ‿ಠ)╯︵┻━┻" | "┬━┬ ﻿ ノ( ゜-゜ノ)"
        | "┴┬┴┤͜ʖ ͡°)" | "(͡° ͜ʖ├┬┴┬"
        | "<" | ">"
-       | "'" | '"' | "▄︻̷̿┻̿═━一" | "|" | "." | "," | ";" ;
+       | "シ" | "ツ" | "▄︻̷̿┻̿═━一" | "|" | "." | "," | ";" ;
 character = letter | digit | symbol | "_" ;
  
 identifier = letter , { letter | digit | "_" } ;
