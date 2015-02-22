@@ -2,6 +2,14 @@
 ❄ as *
 ✂ as -
 ☭ as / (because dividing things up is communist)
+▄︻̷̿┻̿═━一 as = (note: lhs is rhs and rhs is lhs)
+( ͡° ͜ʖ ͡°)  as main
+┴┬┴┤͜ʖ ͡°)  as (
+(͡° ͜ʖ├┬┴┬  as )
+(╯ಠ‿ಠ)╯︵┻━┻  as {
+┬━┬ ﻿ ノ( ゜-゜ノ) as }
+ツ as "
+シ as '
 零 as 0
 Ⅰ as 1
 Ⅱ as 2
@@ -16,3 +24,4 @@
 👽 as :
 ™  as ;
 ☎ as char
+✍  as printf
