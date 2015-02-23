@@ -32,3 +32,8 @@
 ໒( ݓ Ĺ̯ ݓ )७ as false
 ᕦ໒( ՞ ◡ ՞ )७ᕤ as true
 ¯\_| ✖ 〜 ✖ |_/¯ as null
+꧁ as [
+꧂ as ]
+Ꙭ as bool
+Ꙙ as &&
+楫 as || (Han symbol for oar)
