@@ -29,3 +29,6 @@
 ☁ as float
 ⚧ as struct
 ℵ as int
+໒( ݓ Ĺ̯ ݓ )७ as false
+ᕦ໒( ՞ ◡ ՞ )७ᕤ as true
+¯\_| ✖ 〜 ✖ |_/¯ as null
