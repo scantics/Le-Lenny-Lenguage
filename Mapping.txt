@@ -26,3 +26,6 @@
 ☎ as char
 ✍  as printf
 🍝 as goto
+☁ as float
+⚧ as struct
+ℵ as int
