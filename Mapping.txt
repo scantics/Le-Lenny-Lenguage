@@ -54,3 +54,4 @@ raise ur le dongers as long
 😳 as void
 ₍₍ ᕕ( * ⊙ ヮ ⊙ * )ᕗ⁾⁾ as while (note: the condition must precede this keyword for proper syntax)
 (ʘ言ʘ╬) as else
+(ʘ͡ ʖ͜ ʘ͡ ง) as if (again, condition must precede this keyword for proper syntax)
