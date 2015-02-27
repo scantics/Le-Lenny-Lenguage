@@ -44,3 +44,13 @@
 (╯°□°）╯︵ (\ . 0 .)\ as break
 ᕕ༼✿•̀︿•́༽ᕗ as [
 ┗-(´･◡･⊂ )∘˚˳° as ]
+/╲/\╭⁞ ͡° ͜ʖ ͡° ⁞╮/\╱﻿\ as enum
+∫ as const (because indefinite integrals have to have + C)
+raise ur le dongers as long
+༼つಠ益ಠ༽つ ─=≡ΣO)) as return
+🚻 as struct (because gender is a social construct)
+👬 as union (because le lenny unions are civil)
+ʕ•̫͡•ʕ̫͡ʕ•͓͡•ʔ-̫͡-ʕ•̫͡•ʔ̫͡ʔ-̫͡-ʔ as switch (good luck using vision on this line)
+😳 as void
+₍₍ ᕕ( * ⊙ ヮ ⊙ * )ᕗ⁾⁾ as while (note: the condition must precede this keyword for proper syntax)
+(ʘ言ʘ╬) as else
