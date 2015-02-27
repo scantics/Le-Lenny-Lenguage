@@ -9,5 +9,7 @@ Only for Lenux.
 
 Le Lennyonic Philosophy
 1. 〳 ͡° Ĺ̯ ͡° 〵 we're not ilumanati ᕦ〳 ◑ ‸ ◑ 〵ᕤ
+ 
 2. Emoticompiler does good optimization.
+
 3. Get done with ambiuity
