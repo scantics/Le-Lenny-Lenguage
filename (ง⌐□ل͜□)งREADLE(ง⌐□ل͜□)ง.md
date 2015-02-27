@@ -14,3 +14,6 @@ Le Lennyonic Philosophy
 2. Emoticompiler does good optimization.
 
 3. Get done with ambiuity
+
+4. Le code extension is .txt, in order to be less intimidating to new programmers.
+
