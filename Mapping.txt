@@ -56,3 +56,4 @@ raise ur le dongers as long
 (ʘ言ʘ╬) as else
 (ʘ͡ ʖ͜ ʘ͡ ง) as if (again, condition must precede this keyword for proper syntax)
   as   (m'space as space) (U+2003)
+(_*_) as void
