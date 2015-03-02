@@ -7,7 +7,7 @@ How often have we heard the complaint from today's beleagured myspace-addicted y
 Only for Lenux.
 
 
-Le Lennyonic Philosophy
+###Le Lennyonic Philosophy
 
 1. 〳 ͡° Ĺ̯ ͡° 〵 we're not ilumanati ᕦ〳 ◑ ‸ ◑ 〵ᕤ
  
@@ -17,3 +17,18 @@ Le Lennyonic Philosophy
 
 4. Le code extension is .txt, in order to be less intimidating to new programmers.
 
+
+###How 2 Use Emoticompiler (once it exists)
+1. Open IDLE in the folder where you downloaded Le Emoticompiler
+
+2. Type import emoticompyler
+
+3. Hit enter
+
+4. Type le_compile("path_to_file.txt")
+
+5. Hit enter
+
+6. Enjoy your new 100% good optimized program
+
+Note: If you do not use IDLE, program behavior is undefined.
