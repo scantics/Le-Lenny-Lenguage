@@ -51,9 +51,11 @@ raise ur le dongers as long
 🚻 as struct (because gender is a social construct)
 👬 as union (because le lenny unions are civil)
 ʕ•̫͡•ʕ̫͡ʕ•͓͡•ʔ-̫͡-ʕ•̫͡•ʔ̫͡ʔ-̫͡-ʔ as switch (good luck using vision on this line)
+\ ʕ◕‿◕ʔ / as case
 😳 as void
 ₍₍ ᕕ( * ⊙ ヮ ⊙ * )ᕗ⁾⁾ as while (note: the condition must precede this keyword for proper syntax)
 (ʘ言ʘ╬) as else
 (ʘ͡ ʖ͜ ʘ͡ ง) as if (again, condition must precede this keyword for proper syntax)
   as   (m'space as space) (U+2003)
 (_*_) as void
+卐 as typedef
