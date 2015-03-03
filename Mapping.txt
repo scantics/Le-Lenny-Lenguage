@@ -59,3 +59,4 @@ raise ur le dongers as long
   as   (m'space as space) (U+2003)
 (_*_) as void
 卐 as typedef
+SEXPONENTFRACTION as double
