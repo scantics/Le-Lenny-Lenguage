@@ -4,7 +4,7 @@ It's also charity-ware, so please donate all dongers that result from use of thi
 
 How often have we heard the complaint from today's beleagured myspace-addicted youth, "I'd love to learn the C Programming Language, but I can't figure it out! If only there was a simple millenial-readable unicode language!?" Now there is.
 
-Kid-tested, Scientology approved. 
+Kid-tested, Scientology approved, and now usable as part of the LAMP (Lenny and memes please) stack
 
 Only for Lenux.
 
@@ -15,7 +15,7 @@ Only for Lenux.
  
 2. Emoticompiler does good optimization.
 
-3. Get not ambiguous and always readable
+3. Don't avoid being unambiguous and always readable
 
 4. Le code extension is .txt, in order to be less intimidating to new programmers.
 
