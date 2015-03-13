@@ -1,4 +1,6 @@
 mapping = {}
+#in full implementation we would pre-pickle the dictionary
+#i might make a script to write the dictionary to this script
 f = open('mapping.txt','r')
 for line in f.readlines():
     kval = line.split(" as ")
