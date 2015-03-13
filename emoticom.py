@@ -11,3 +11,6 @@ f.close()
 f = open("1337h4(|<3rc0d3.txt",'r')
 code = f.read()
 lameCode = Template(code).safe_substitute(mapping)
+
+#the above assumes that no replacement is a substring of another
+#next to do is reverse assignments and other things into uncool mode
